@@ -13,3 +13,30 @@
 // else {
 //     document.write(player2 +  "You Win" + " " + player1 + " Better luck next time  ");
 // }
+
+// dice task//
+
+// var dice = Math.floor(Math.random()*6)+1;
+// if(dice === 1){
+// console.log(`Dice rolled:${dice}`);
+// }
+// else if(dice === 2){
+//     console.log(`Dice rolled: ${dice}`);
+// }
+// else if(dice === 3){
+//     console.log(`Dice rolled: ${dice}`);
+// }
+// else if(dice === 4){
+//     console.log(`Dice rolled: ${dice}`);
+// }
+// else if(dice === 5){
+//     console.log(`Dice rolled: ${dice}`);
+// }
+// else if(dice === 6){
+//     console.log(`Dice rolled: ${dice}`);
+// }
+
+// PASSWORD GENERATOR//
+
+ var PASSWORD = +"hkqgdliytfrrwfqrpi2vryp23r2@#$^&*&^%";
+ console.log((Math.random(PASSWORD)*10))
