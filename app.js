@@ -1,4 +1,4 @@
-//Head and Tail//
+// Head and Tail//
 
 // var player1 = prompt("Enter player 1 name!");
 // var player2 = prompt("Enter player 2 name");
@@ -9,7 +9,7 @@
 
 // if (randomNumber === number) {
 //     document.write(player1 + " You Win! " + " " + player2 + " Better luck next time  ");
-// } 
+// }
 // else {
 //     document.write(player2 +  "You Win" + " " + player1 + " Better luck next time  ");
 // }
