@@ -38,5 +38,13 @@
 
 // PASSWORD GENERATOR//
 
- var PASSWORD = +"hkqgdliytfrrwfqrpi2vryp23r2@#$^&*&^%";
- console.log((Math.random(PASSWORD)*10))
+// const length = 12;
+// const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz012345678';
+// let password = '';
+
+// for (let i = 0; i < length; i++) {
+//     const randomIndex = Math.floor(Math.random() * characters.length);
+//     password += characters[randomIndex];
+// }
+
+// document.write("<H1>"+"Generated password:", password);
